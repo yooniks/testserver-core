@@ -1,0 +1,6 @@
+name: 'TestServerCore'
+version: ${project.version}
+main: 'xyz.yooniks.testserver.TestServerCorePlugin'
+authors: [yooniks]
+description: 'A simple core plugin for test server'
+website: 'github.com/yooniks'
